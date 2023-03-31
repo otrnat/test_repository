@@ -17,6 +17,7 @@ if operation == "*":
     print(mulipl)
 if operation == "/":
     delete = num1 / num2
+    print (delete)
     
          
 
